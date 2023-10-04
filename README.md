@@ -3,8 +3,8 @@ Program contains base class Device, main class and three derived classes(Smartph
 
 # Device class
 Syper class. Its properties: 
-*type
-*price
-*weight
+* type
+* price
+* weight
 
 
