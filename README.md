@@ -3,8 +3,23 @@ Program contains base class Device, main class and three derived classes(Smartph
 
 # Device class
 Syper class. Its properties: 
-* type
-* price
-* weight
+- type
+- price
+- weight
+
+# Smartphone class
+Derived class. Extends Device class. Its additional atrributes:
+- camera resolution
+- screeb size
+
+# Laptop class
+Derived class. Extends Device class. Its additional atrributes:
+- memory
+- CPU
+
+# Tablet class
+Derived class. Extends Device class. Its additional atrributes:
+- color
+- madeIn
 
 
